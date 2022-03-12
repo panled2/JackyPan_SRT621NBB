@@ -1,0 +1,11 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "Display time and clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacky Pan",
+  "license": "ISC"
+}
